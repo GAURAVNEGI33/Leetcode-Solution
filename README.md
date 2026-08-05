@@ -29,13 +29,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3310-remove-methods-from-project/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
