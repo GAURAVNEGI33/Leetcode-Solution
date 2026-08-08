@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +71,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 <!---LeetCode Topics End-->
