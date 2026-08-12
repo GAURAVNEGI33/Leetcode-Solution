@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +100,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
