@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## String
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
