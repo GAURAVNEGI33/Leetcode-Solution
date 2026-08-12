@@ -1,15 +1,17 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        count ={}
-        n = len(nums)
+        # boyer-moore method
 
-        for num in nums :
-            if num in count:
-                count[num]+=1
+        candidate = None
+        count = 0
+
+        for num in nums:
+            if count == 0:
+                candidate = num
+
+            if num == candidate:
+                count+=1
             else:
-                count[num]=1
+                count-=1
+        return candidate
 
-            if count[num]>n//2:
-                return num
-        
-  
