@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
@@ -93,5 +94,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
