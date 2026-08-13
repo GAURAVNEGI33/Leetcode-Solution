@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
