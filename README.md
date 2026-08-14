@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
