@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
