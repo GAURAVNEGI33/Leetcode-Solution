@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [1927-sum-game](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
