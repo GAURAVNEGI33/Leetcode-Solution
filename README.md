@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
