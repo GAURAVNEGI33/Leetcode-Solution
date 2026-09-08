@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1927-sum-game](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
