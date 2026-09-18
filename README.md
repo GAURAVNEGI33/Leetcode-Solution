@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
