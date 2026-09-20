@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
