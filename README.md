@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -222,9 +223,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
