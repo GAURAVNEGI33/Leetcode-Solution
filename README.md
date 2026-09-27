@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
@@ -247,4 +248,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
