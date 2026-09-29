@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Divide and Conquer
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -256,4 +259,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
