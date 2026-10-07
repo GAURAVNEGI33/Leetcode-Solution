@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0205-isomorphic-strings](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0856-score-of-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0856-score-of-parentheses/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -277,4 +279,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
