@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
