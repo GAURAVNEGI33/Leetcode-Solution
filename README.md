@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
