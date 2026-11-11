@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Enumeration
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
