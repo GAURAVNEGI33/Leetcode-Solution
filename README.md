@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2409-count-days-spent-together](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GAURAVNEGI33/Leetcode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
